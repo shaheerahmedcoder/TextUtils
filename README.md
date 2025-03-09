@@ -10,9 +10,7 @@ Welcome to the Text Utils App! This is a simple yet powerful React application t
 - **Copy Text**: Copy the modified text to your clipboard for easy sharing.
 - **Remove Extra Spaces**: Eliminate unnecessary spaces from your text.
 
-## Demo
 
-![Demo](link-to-your-demo-image-or-gif)
 
 ## Technologies Used
 
@@ -20,10 +18,3 @@ Welcome to the Text Utils App! This is a simple yet powerful React application t
 - JavaScript
 - CSS
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/text-utils-app.git
